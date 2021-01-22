@@ -6,31 +6,39 @@ title: Jianshi (Frank) Jin
 superuser: true
 
 # Role/position/tagline
-role: 
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: RIKEN
-  url: 
+- name: RIKEN Center for Biosystems Dynamics Research (BDR)
+  url: https://www.bdr.riken.jp/en/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include...
 
 # Interests to show in About widget
 interests:
-- XXXX
-- XXXX
-- XXXX
+- Biotechnology
+- Biophysics
+- Single-cell sequencing
+- Bacterial microbiota
+- Single-molecule biophysics
+- Single-molecule and single-cell imaging
+- DNA-protein interaction
+- Deep learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: XXXX
-    institution: XXXX
-    year: XXXX
-  - course: XXXX
-    institution: XXXX
-    year: XXXX
+  - course: Ph.D. in Biophysics
+    institution: Peking University, China
+    year: 2009~2014
+  - course: Visiting Scholar
+    institution: Harvard University, USA
+    year: 2010~2011
+  - course: B.S. in Chemistry
+    institution: Nanjing University, China
+    year: 2005~2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,9 +54,9 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: XXXX
-- icon: github
-  icon_pack: fab
-  link: XXXX
+# - icon: github
+#  icon_pack: fab
+#  link: XXXX
 - icon: linkedin
   icon_pack: fab
   link: XXXX
