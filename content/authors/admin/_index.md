@@ -24,8 +24,8 @@ interests:
 - Bacterial microbiota
 - Single-molecule biophysics
 - Single-molecule and single-cell imaging
-- DNA-protein interaction
-- Deep learning
+- DNA-protein interactions
+
 
 # Education to show in About widget
 education:

@@ -22,24 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: XXXXX
-    company: XXXXX
-    company_url: ''
-    location: XXXX
+  - title: Research Scientist, JSPS Postdoctoral Fellowship
+    company: Laboratory for Prediction of Cell Systems Dynamics, Center for Biosystems Dynamics Research (BDR), RIKEN
+    company_url: 'http://guppy.riken.jp/index.html'
+    location: Osaka, Japan
     date_start: '2016-04-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+   #  description: |2-
+   #     Responsibilities include:
         
-        * XXXX
-        * XXXX
-        * XXXX
+    #    * Research
         
-  - title: XXXX
-    company: University X
-    company_url: ''
-    location: XXXX
+  - title: Postdoctoral Fellowship
+    company: Biomedical Pioneering Innovation Center (BIOPIC), Peking University
+    company_url: 'https://biopic.pku.edu.cn'
+    location: Beijing China
     date_start: '2014-07-01'
     date_end: '2016-03-31'
-    description: XXXX
+   # description: |2-
+
 ---
