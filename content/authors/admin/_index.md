@@ -14,7 +14,7 @@ organizations:
   url: https://www.bdr.riken.jp/en/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include...
+bio: Work for better life! 
 
 # Interests to show in About widget
 interests:
@@ -48,18 +48,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: XXXX
+# - icon: twitter
+#  icon_pack: fab
+#  link: XXXX
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: XXXX
+  link: https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjtkZHKj7fuAhVSPnAKHZdDA-IQFjAAegQIAxAC&url=http%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DtrOiM5sAAAAJ%26hl%3Dzh-CN&usg=AOvVaw20be9JYqPQClP24nqvp5lm
 # - icon: github
 #  icon_pack: fab
 #  link: XXXX
 - icon: linkedin
   icon_pack: fab
-  link: XXXX
+  link: https://www.linkedin.com/in/jianshi-jin-261b6b203/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
