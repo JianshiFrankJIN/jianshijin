@@ -1,7 +1,7 @@
 ---
-# An instance of the Accomplishments widget.
+# An instance of the Awards and Honors widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: accomplishments
+widget: Awards and Honors
 
 # This file represents a page section.
 headless: true
@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards and &shy;Honors'
 subtitle:
 
 # Date format
