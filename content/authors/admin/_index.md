@@ -48,18 +48,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: XXXX
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: XXXX
+#- icon: twitter
+#  icon_pack: fab
+#  link: XXXX
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: XXXX
 # - icon: github
 #  icon_pack: fab
 #  link: XXXX
-- icon: linkedin
-  icon_pack: fab
-  link: XXXX
+# - icon: linkedin
+#  icon_pack: fab
+#  link: XXXX
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
