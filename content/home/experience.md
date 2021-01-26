@@ -1,9 +1,5 @@
 ---
 widget: experience
-headless: true
-weight: 40
-title: Professional Appointments
-subtitle: null
 date_format: Jan 2006
 experience:
   - title: Research Scientist, JSPS Postdoctoral Fellowship
@@ -20,4 +16,11 @@ experience:
     date_start: 2014-07-01
     date_end: 2016-03-31
 widget_id: Professional Appointments
+headless: true
+weight: 40
+title: Professional Appointments
+subtitle: null
+design:
+  background:
+    color: "#0004ff"
 ---
