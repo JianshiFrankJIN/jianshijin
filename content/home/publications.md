@@ -29,13 +29,11 @@ design:
   **_The Journal of Immunology_**, 198(9):3627-3636, **2017**
 
 
-
 - [The effects of cytosine methylation on general transcriptional factors](https://www.nature.com/articles/srep29119)
 
   **Jianshi Jin**\*, Tengfei, Lian\*, Chan Gu\*, Kai Yu, Yi Qin Gao & Xiao-Dong Su  
 
   **_Scientific Reports_**, 6:29119, **2016**
-
 
 
 - [Deep sequencing reveals global patterns of mRNA recruitment during translation initiation](https://www.nature.com/articles/srep30170)
@@ -70,7 +68,7 @@ design:
 
 
 
-- Davydov-Pang model: An improved Davydov protein soliton theory Comment on “The theory of bio-energy transport in the protein molecules and its properties” by Xiaofeng Pang. 
+- [Davydov-Pang model: An improved Davydov protein soliton theory Comment on “The theory of bio-energy transport in the protein molecules and its properties” by Xiaofeng Pang](https://www.sciencedirect.com/science/article/abs/pii/S1571064511000868?via%3Dihub)
 
   Xiao-Dong Su & **Frank J. Jin**
 
@@ -78,7 +76,7 @@ design:
 
 
 
-- Enzyme Catalysis and Gene Expression Studies at Single Molecule Level
+- [Enzyme Catalysis and Gene Expression Studies at Single Molecule Level](http://www.whxb.pku.edu.cn/CN/10.3866/PKU.WHXB20100740)
 
   Xiao-Dong Su, **Jian-Shi Jin** & Xiaoliang Sunney Xie
 
@@ -86,7 +84,7 @@ design:
 
   
 
-- “Highly sensitive identification of cancer cells by combining the new tetrathiafulvalene derivative with a β-cyclodextrin/multi-walled carbon nanotubes modified GCE.” 
+- [Highly sensitive identification of cancer cells by combining the new tetrathiafulvalene derivative with a β-cyclodextrin/multi-walled carbon nanotubes modified GCE](https://pubs.rsc.org/en/content/articlelanding/an/2010/c0an00338g#!divAbstract) 
 
   Juan Zhao, **Jianshi Jin**, Chunhui Wu, Hui Jiang, Yanyan Zhou, Jinglin Zuo & Xuemei Wang
 
@@ -94,7 +92,7 @@ design:
 
 
 
-- Rhenium(I) tricarbonyl complexes with bispyridine ligands attached to sulfur-rich core: Syntheses, structures and properties
+- [Rhenium(I) tricarbonyl complexes with bispyridine ligands attached to sulfur-rich core: Syntheses, structures and properties](https://www.sciencedirect.com/science/article/pii/S0022328X08008218)
 
   Ya Chen, Wei Liu, **Jian-Shi Jin**, Bin Liu, Zhi-Gang Zou, Jing-Lin Zuo & Xiao-Zeng You
 
