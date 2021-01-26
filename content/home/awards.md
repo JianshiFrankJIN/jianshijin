@@ -19,7 +19,7 @@ content:
 design:
   view: 4
 ---
-**Scientific Awards**
+##**Scientific Awards**
 
 - JSPS Postdoctoral Fellowships for Foreign Researchers in Japan (**2017~2019**)
 
