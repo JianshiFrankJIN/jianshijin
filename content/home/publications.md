@@ -28,6 +28,7 @@ design:
 
   **_The Journal of Immunology_**, 198(9):3627-3636, **2017**
 
+***
 
 - [The effects of cytosine methylation on general transcriptional factors](https://www.nature.com/articles/srep29119)
 
@@ -35,6 +36,7 @@ design:
 
   **_Scientific Reports_**, 6:29119, **2016**
 
+***
 
 - [Deep sequencing reveals global patterns of mRNA recruitment during translation initiation](https://www.nature.com/articles/srep30170)
 
@@ -42,7 +44,7 @@ design:
 
   **_Scientific Reports_**, 6:30170, **2016**
 
-
+***
 
 - [High-accuracy mapping protein binding stability on nucleosomal DNA using single-molecule method](https://academic.oup.com/jmcb/article/6/5/438/2886265)
 
@@ -50,7 +52,7 @@ design:
 
   **_Journal of Molecular Cell Biology_**, 6(5):438-40, **2014**
 
-
+***
 
 - [Probing Allostery Through DNA](https://science.sciencemag.org/content/339/6121/816)
 
@@ -58,7 +60,7 @@ design:
 
   **_Science_**, 339:816-819, **2013**
 
-
+***
 
 - [Slow protein conformational change, allostery and network dynamics](https://www.intechopen.com/books/protein-protein-interactions-computational-and-experimental-tools/slow-protein-conformational-change-allostery-and-network-dynamics)
 
@@ -66,7 +68,7 @@ design:
 
   **_Protein-Protein Interactions-Computational and Experimental Tools_**, Dr. Weibo Cai (Ed.), ISBN: 978-953-51-0397-4, In Tech. **2012.** 
 
-
+***
 
 - [Davydov-Pang model: An improved Davydov protein soliton theory Comment on “The theory of bio-energy transport in the protein molecules and its properties” by Xiaofeng Pang](https://www.sciencedirect.com/science/article/abs/pii/S1571064511000868?via%3Dihub)
 
@@ -74,7 +76,7 @@ design:
 
   **_Phys Life Rev._**, 8(3):300-1, **2011** 
 
-
+***
 
 - [Enzyme Catalysis and Gene Expression Studies at Single Molecule Level](http://www.whxb.pku.edu.cn/CN/10.3866/PKU.WHXB20100740)
 
@@ -82,7 +84,7 @@ design:
 
   **_Acta Phys. Chim. Sin._**, 26(7): 1976-87, **2010**
 
-  
+***  
 
 - [Highly sensitive identification of cancer cells by combining the new tetrathiafulvalene derivative with a β-cyclodextrin/multi-walled carbon nanotubes modified GCE](https://pubs.rsc.org/en/content/articlelanding/an/2010/c0an00338g#!divAbstract) 
 
@@ -90,7 +92,7 @@ design:
 
   **_Analyst_**, 135(11):2965-2969, **2010**
 
-
+***
 
 - [Rhenium(I) tricarbonyl complexes with bispyridine ligands attached to sulfur-rich core: Syntheses, structures and properties](https://www.sciencedirect.com/science/article/pii/S0022328X08008218)
 

@@ -19,7 +19,7 @@ content:
 design:
   view: 2
 ---
-# **Scientific Awards**
+## **Scientific Awards**
 
 - JSPS Postdoctoral Fellowships for Foreign Researchers in Japan (**2017~2019**)
 
@@ -40,7 +40,7 @@ design:
 - Excellent Paper Award (3rd Rank) in Mathematics and Physics (**2006**) for the paper in the 10th Forum of Science and Art, Nanjing University, China
 
 
-# **Scholarships**
+## **Scholarships**
 
 - National Scholarship of China in **2013** (top scholarship for students in China)
 
@@ -55,7 +55,7 @@ design:
 - The People's scholarship (2nd Rank) in **2006**
 
 
-# **Others**
+## **Others**
 
 - Selected Participant of the Global Young Scientists Summit (GYSS) in **2021**.
 
