@@ -22,5 +22,5 @@ title: Professional Appointments
 subtitle: null
 design:
   background:
-    color: "#0004ff"
+    color: "#ffffff"
 ---
