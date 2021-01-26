@@ -19,44 +19,52 @@ content:
 design:
   view: 4
 ---
-2021       Selected Participant of the Global Young Scientists Summit (GYSS) 2021.
+**Scientific**
+
+JSPS Postdoctoral Fellowships for Foreign Researchers in Japan (2017~2019)
+
+First Prize of Cold Spring Harbor Asia (CSHA) Fellowship Award (2017) for the best presentation in CSHA meeting on "Tumor Immunology & Immunotherapy"
+
+Peking-Tsinghua Center for Life Sciences Postdoctoral Fellowship (2014~2016)
+
+Excellent Doctor Degree Disseration of Peking University (2014) for the thesis on "the fine-tuning regulation of the DNA structure in DNA-protein interactions"
+
+Excellent Talk Award (2012) for the best presentation in the Beijing Annual Meeting of Biochemistry and Molecular Biology, Beijing, China
+
+Excellent Poster Award (2012) for the best presentation in the Fifth National Congress of Chinese Crystallographic Society, Xi’an, China
+
+Excellent Undergraduate Thesis(2nd Rank) of Nanjing University (2009) for the thesis on "Chemical Studies of New Multifunctional Metal Complexes with Multi-Sulfur Ligands"
+
+Excellent Paper Award (3rd Rank) in Chemistry and Biology (2007) for the paper in the 11th Forum of Science and Art, Nanjing University, China
+
+Excellent Paper Award (3rd Rank) in Mathematics and Physics (2006) for the paper in the 10th Forum of Science and Art, Nanjing University, China
+
+
+**Scholarship**
+
+National Scholarship of China in 2013 (top scholarship for students in China)
+
+May-Fourth Scholarship in 2010 from National Student Union of China
+
+“Jiang Wen-Ruo” Scholarship in 2008
+
+“PPG-Taida” Scholarship in 2007
+
+The Government Scholarship of Jiangsu Province in 2006
+
+The People's scholarship (2nd Rank) in 2006
+
+
+**Others**
+
+Selected Participant of the Global Young Scientists Summit (GYSS) in 2021.
+
+Excellent Graduate of Beijing, China in 2014
    
-2017~2019  JSPS Postdoctoral Fellowships for Foreign Researchers in Japan. 
+Excellent Graduate of Peking University in 2014
 
-2017       First Prize of Cold Spring Harbor Asia Fellowship Award, Suzhou, China.
+Merit Student of Peking University in 2010
 
-2014~2016  CLS Postdoctoral Fellowship, Peking-Tsinghua Center for Life Sciences, China.
+Merit Student of Nanjing University in 2008
 
-2014       Excellent doctor degree dissertation, Peking University, China.
-
-2014       Excellent Graduate in Beijing, Beijing Municipal Party Committee, China.
-
-2014       Excellent Graduate in Peking University, Peking University, China.
-
-2013       National Scholarship of China.
-
-2012       Excellent Talk Award, Beijing Annual Meeting of Biochemistry and Molecular Biology, Beijing, China.
-
-2012       Excellent Poster Award, The Fifth National Congress of Chinese Crystallographic Society, Xi’an, China.
-
-2010       May-Fourth Scholarship, National Student Union, China.
-
-2010       Merit Student, Peking University, China.
-
-2009       Excellent Undergraduate Thesis, 2nd Rank, Nanjing University, China.
-
-2008       Excellent Student, Nanjing University, China.
-
-2008       “Jiang Wen-Ruo” Scholarship, Nanjing University, China.
-
-2007       “PPG-Taida” Scholarship, Nanjing University, China.
-
-2007       Excellent Paper Award, 3rd Rank in Chemistry and Biology, The 11th Forum of Science and Art, Nanjing University, China.
-
-2006       The Government Scholarship of Jiangsu Province, Nanjing University, China.
-
-2006       People's scholarship, 2nd Rank, Nanjing University, China.
-
-2006       Excellent Paper Award, 3rd Rank in Mathematics and Physics, The 10th Forum of Science and Art, Nanjing University, China.
-
-2005       Silver Medal, Chinese Chemistry Olympiad (CChO) (Final)
+Silver Medal, Chinese Chemistry Olympiad (CChO) (Final) in 2005
