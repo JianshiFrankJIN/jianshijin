@@ -54,7 +54,7 @@ design:
 
 - The Government Scholarship of Jiangsu Province in **2006**
 
-- The People's scholarship (2nd Rank) in **2006**
+- The People's Scholarship (2nd Rank) in **2006**
 
 
 ## **Others**
