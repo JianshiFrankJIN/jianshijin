@@ -2,7 +2,7 @@
 widget: pages
 widget_id: services
 headless: true
-weight: 100
+weight: 110
 title: Academic services
 subtitle: ""
 content:
