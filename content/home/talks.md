@@ -24,7 +24,7 @@ design:
 
 - "Towards deep learning-based prediction of single cell gene expression state from time-lapse images"*
 
-  [**DECODE seminar**] (http://qbictest.kobe.riken.jp/DECODE/index.html) @ RIKEN
+  [**DECODE seminar**](http://qbictest.kobe.riken.jp/DECODE/index.html) @ RIKEN
 
   Nov 24, 2020
 ***
@@ -69,7 +69,7 @@ design:
   Nov 16, 2015
 
 ***
-- "The fine tuning gene regulation through DNA-protein interactions"
+- "The fine tuning gene regulation through DNA-protein interactions"*
 
   **Academic week** @ Peking University
 
@@ -77,13 +77,13 @@ design:
 ***
 - "The fine tuning gene regulation through DNA-protein interactions"
 
-  **IUCr 2014** @ Montréal, Canada (Got the Travel award, but canceled due to visa problem)
+  **IUCr 2014** @ Montréal, Canada (_Got the Travel award, but canceled due to visa problem_)
 
   Aug, 2014
 ***
 - "Probing Allostery Through DNA"
 
-  **Beijing Annual Meeting of Biochemistry and Molecular Biology** @ Beijing, China (Got the Excellent Talk Award for this presentation)
+  **Beijing Annual Meeting of Biochemistry and Molecular Biology** @ Beijing, China (_Got the Excellent Talk Award_)
 
   Oct 10, 2012
 
