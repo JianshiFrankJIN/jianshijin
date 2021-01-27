@@ -104,4 +104,5 @@ design:
 ## **Patents**
 ***
 - 細胞集団の処理方法および細胞集団に含まれる遺伝子の分析方法
-  Katsuyuki Shiroguchi*, **Jianshi Jin***, & Reiko Yamamoto 
+
+  Katsuyuki Shiroguchi\*, **Jianshi Jin**\*, & Reiko Yamamoto 
