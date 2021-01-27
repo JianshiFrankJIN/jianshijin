@@ -27,7 +27,7 @@ design:
   Jianli Tao\*, Xiao-Wei Zhang\*, **Jianshi Jin**\*, Xiao-Xia Du, Tengfei Lian, Jing Yang, Xiang Zhou, Zhengfan Jiang & Xiao-Dong Su
 
   **_The Journal of Immunology_**, 198(9):3627-3636, **2017**
-  {{< video library="true" src="cGAS.mov" controls="yes" title="Single proteins (cGAS) binding on DNA." >}}
+  {{< figure library="true" src="cGAS.png" title="Binding of nonspecific dsDNA by the N-terminal domain of cGAS promotes its activation: N-terminal domain of cGAS plays an important role in enhancing its function" >}}
 ***
 
 - [The effects of cytosine methylation on general transcriptional factors](https://www.nature.com/articles/srep29119)
