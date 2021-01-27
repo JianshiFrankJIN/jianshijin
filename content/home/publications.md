@@ -51,7 +51,7 @@ design:
   **Jianshi Jin**, Tengfei, Lian, X. Sunney Xie & Xiao-Dong Su
 
   **_Journal of Molecular Cell Biology_**, 6(5):438-40, **2014**
-![The nucleosomal DNA-protein interaction is regulated by both histone shielding and conformational change of the nucleosomal DNA.](images/JMCB_JIN.jpg)
+  ![The nucleosomal DNA-protein interaction is regulated by both histone shielding and conformational change of the nucleosomal DNA.]({{< relref "images/JMCB_JIN.jpg" >}})
 ***
 
 - [Probing Allostery Through DNA](https://science.sciencemag.org/content/339/6121/816)
