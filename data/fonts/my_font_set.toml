@@ -7,5 +7,5 @@ google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:
 # Font families
 heading_font = "Coda Caption"
 body_font = "Roboto"
-nav_font = "Roboto"
-mono_font = "Hanalei"
+nav_font = "RobotoLondrina Solid"
+mono_font = "Roboto"
