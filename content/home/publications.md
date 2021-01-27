@@ -35,7 +35,7 @@ design:
   **Jianshi Jin**\*, Tengfei, Lian\*, Chan Gu\*, Kai Yu, Yi Qin Gao & Xiao-Dong Su  
 
   **_Scientific Reports_**, 6:29119, **2016**
- {{< figure library="true" src="Methylation.jpg" title="Cytosine methylation in a non-CpG context (mCH) provides a novel mechanism for gene regulation through directly affecting the TF binding." >}}
+ {{< figure library="true" src="Methylation.png" title="Cytosine methylation in a non-CpG context (mCH) provides a novel mechanism for gene regulation through directly affecting the TF binding." >}}
 ***
 
 - [Deep sequencing reveals global patterns of mRNA recruitment during translation initiation](https://www.nature.com/articles/srep30170)
@@ -59,7 +59,7 @@ design:
   Sangjin Kim\*, Erik Broströmer\*, Dong Xing\*, **Jianshi Jin**\*, Shasha Chong, Hao Ge, Siyuan Wang, Chan Gu, Lijiang Yang, Yi Qin Gao, Xiao-dong Su, Yujie Sun & X. Sunney Xie
 
   **_Science_**, 339:816-819, **2013**
-  {{< figure library="true" src="Allostery.jpg" title="Specific binding of a protein (protein A) on DNA is substantially stabilized or destabilized by another protein (protein B) bound nearby." >}}
+  {{< figure library="true" src="Allostery.png" title="Specific binding of a protein (protein A) on DNA is substantially stabilized or destabilized by another protein (protein B) bound nearby." >}}
 ***
 
 - [Slow protein conformational change, allostery and network dynamics](https://www.intechopen.com/books/protein-protein-interactions-computational-and-experimental-tools/slow-protein-conformational-change-allostery-and-network-dynamics)
