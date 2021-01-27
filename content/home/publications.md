@@ -21,7 +21,8 @@ design:
 ---
 *Equally-first author
 
-
+## **Original Articles**
+***
 - [Nonspecific DNA Binding of cGAS N Terminus Promotes cGAS Activation](https://www.jimmunol.org/content/198/9/3627.long)
 
   Jianli Tao\*, Xiao-Wei Zhang\*, **Jianshi Jin**\*, Xiao-Xia Du, Tengfei Lian, Jing Yang, Xiang Zhou, Zhengfan Jiang & Xiao-Dong Su
@@ -61,7 +62,22 @@ design:
   **_Science_**, 339:816-819, **2013**
   {{< figure library="true" src="Allostery.png" title="Specific binding of a protein (protein A) on DNA is substantially stabilized or destabilized by another protein (protein B) bound nearby (L ≲ 30bp): DNA Allostery." >}}
 ***
+- [Highly sensitive identification of cancer cells by combining the new tetrathiafulvalene derivative with a β-cyclodextrin/multi-walled carbon nanotubes modified GCE](https://pubs.rsc.org/en/content/articlelanding/an/2010/c0an00338g#!divAbstract) 
 
+  Juan Zhao, **Jianshi Jin**, Chunhui Wu, Hui Jiang, Yanyan Zhou, Jinglin Zuo & Xuemei Wang
+
+  **_Analyst_**, 135(11):2965-2969, **2010**
+
+***
+
+- [Rhenium(I) tricarbonyl complexes with bispyridine ligands attached to sulfur-rich core: Syntheses, structures and properties](https://www.sciencedirect.com/science/article/pii/S0022328X08008218)
+
+  Ya Chen, Wei Liu, **Jian-Shi Jin**, Bin Liu, Zhi-Gang Zou, Jing-Lin Zuo & Xiao-Zeng You
+
+  **_Journal of Organometallic Chemistry_**, 694(5):763-770, **2009**
+***
+## **Reviews and Comments**
+***
 - [Slow protein conformational change, allostery and network dynamics](https://www.intechopen.com/books/protein-protein-interactions-computational-and-experimental-tools/slow-protein-conformational-change-allostery-and-network-dynamics)
 
   Fan Bai, Zhanghan Wu, **Jianshi Jin**, Philip Hochendoner & Jianhua Xing 
@@ -85,17 +101,7 @@ design:
   **_Acta Phys. Chim. Sin._**, 26(7): 1976-87, **2010**
 
 ***  
-
-- [Highly sensitive identification of cancer cells by combining the new tetrathiafulvalene derivative with a β-cyclodextrin/multi-walled carbon nanotubes modified GCE](https://pubs.rsc.org/en/content/articlelanding/an/2010/c0an00338g#!divAbstract) 
-
-  Juan Zhao, **Jianshi Jin**, Chunhui Wu, Hui Jiang, Yanyan Zhou, Jinglin Zuo & Xuemei Wang
-
-  **_Analyst_**, 135(11):2965-2969, **2010**
-
+## **Patents**
 ***
-
-- [Rhenium(I) tricarbonyl complexes with bispyridine ligands attached to sulfur-rich core: Syntheses, structures and properties](https://www.sciencedirect.com/science/article/pii/S0022328X08008218)
-
-  Ya Chen, Wei Liu, **Jian-Shi Jin**, Bin Liu, Zhi-Gang Zou, Jing-Lin Zuo & Xiao-Zeng You
-
-  **_Journal of Organometallic Chemistry_**, 694(5):763-770, **2009**
+- 細胞集団の処理方法および細胞集団に含まれる遺伝子の分析方法
+  Katsuyuki Shiroguchi*, **Jianshi Jin***, & Reiko Yamamoto 
